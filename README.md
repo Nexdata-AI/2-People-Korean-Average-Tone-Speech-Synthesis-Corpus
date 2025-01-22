@@ -1,0 +1,1 @@
+# 2-People-Korean-Average-Tone-Speech-Synthesis-Corpus
