@@ -1,0 +1,30 @@
+000001	でも#3、そんな こと#1意味 が#1あるんでしょう か#4？
+	でも#3、そんな こと#1いみ が#1あるんでしょう か#4？
+	d e(H) . m o(L) / s o(L) . N(H) # n a(H) . k o(H) . t o(L) / i(H) . m i(L) # g a(L) / a(H) . r u(L) . N(L) . d e(H) . s yo:(HL) # k a(L)
+000002	はい#3、こちら#3、お 願い します#4。
+	はい#3、こちら#3、お ねがい します#4。
+	h a(H) . i(L) / k o(L) . ch i(H) . r a(H) / o(L) # n e(H) . g a(H) . i(H) # sh i(L) . m a(H) . s u(L)
+000003	この 人 の#1遺品 の#1中 から#3、父 の#1手帳 は#1見つかった の#4。
+	この ひと の#1いひん の#1なか から#3、ちち の#1てちょう は#1みつかった の#4。
+	k o(L) . n o(H) # h i(L) . t o(L) # n o(L) / i(L) . h i(H) . N(H) # n o(H) / n a(H) . k a(L) # k a(L) . r a(L) / ch i(L) . ch i(H) # n o(L) / t e(L) . c yo:(HH) # w a(H) / m i(L) . ts u(H) . k a(H) . T(H) . t a(H) # n o(L)
+000004	今#3、私#1その 喫茶店 に#1いるんで#3、ちょっと#1外出 します ね#4。
+	いま#3、わたし#1その きっさてん に#1いるんで#3、ちょっと#1がいしゅつ します ね#4。
+	i(H) . m a(L) / w a(L) . t a(H) . sh i(H) / s o(L) . n o(H) # k i(L) . S(H) . s a(H) . t e(H) . N(H) # n i(H) / i(L) . r u(H) . N(L) . d e(L) / c yo(H) . T(L) . t o(L) / g a(L) . i(H) . s yu(H) . ts u(H) # sh i(L) . m a(H) . s u(L) # n e(H)
+000005	何か#3、お経 みてえ な#1歌 だ な#4。
+	なんか#3、おきょう みてえ な#1うた だ な#4。
+	n a(H) . N(L) . k a(L) / o(L) . k yo:(HH) # m i(H) . t e:(LL) # n a(H) / u(L) . t a(H) # d a(L) # n a(L)
+000006	そう だったんです か#4。
+	そう だったんです か#4。
+	s o:(LH) # d a(H) . T(H) . t a(H) . N(L) . d e(H) . s u(L) # k a(H)
+000007	あなた 達#3、市役所 の 人#4！
+	あなた たち#3、しやくしょ の ひと#4！
+	a(L) . n a(H) . t a(L) # t a(L) . ch i(L) / sh i(L) . ya(H) . k u(H) . s yo(H) # n o(H) # h i(L) . t o(H)
+000008	試合 を#1こなす#1うち に#3、連携 が#1取れてくる#1こと が#1多い#4。
+	しあい を#1こなす#1うち に#3、れんけい が#1とれてくる#1こと が#1おおい#4。
+	sh i(L) . a(H) . i(H) # o(H) / k o(H) . n a(H) . s u(H) / u(H) . ch i(H) # n i(H) / r e(L) . N(H) . k e:(HH) # g a(H) / t o(H) . r e(L) . t e(L) . k u(H) . r u(L) / k o(L) . t o(H) # g a(L) / o:(HL) . i(L)
+000009	前 の#1結婚 で#3、何 が#1駄目 だった か#3、少し#1分かった#1気 が#1する#4。
+	まえ の#1けっこん で#3なに が#1だめ だった か#3すこし#1わかった#1き が#1する#4。
+	m a(H) . e(L) # n o(L) / k e(L) . K(H) . k o(H) . N(H) # d e(H) / n a(H) . n i(L) # g a(L) / d a(L) . m e(H) # d a(H) . T(L) . t a(L) # k a(L) / s u(L) . k o(H) . sh i(L) / w a(L) . k a(H) . T(L) . t a(L) / k i(L) # g a(H) / s u(H) . r u(H)
+000010	小さくて#3、精巧 だ#4。
+	ちいさくて#3、せいこう だ#4。
+	ch i:(HL) . s a(L) . k u(L) . t e(L) / s e:(LH) . k o:(HH) # d a(H)
